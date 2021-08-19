@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Makena97
 - 👀 I’m interested in data analysis and programming.
-- 🌱 I’m currently learning SQL.
+- 🌱 I have strong SQL skills.
 - 💞️ I’m looking to collaborate on working on projrcts related to data analysis
 - 📫 How to reach me bessymakena10@gmail.com
 
